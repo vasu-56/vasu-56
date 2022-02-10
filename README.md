@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasudhan Reddy
+- 👋 Hi, I’m Vasudhan Reddy
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning Python and data analysis
 - 💞️ I’m looking to collaborate on ...
